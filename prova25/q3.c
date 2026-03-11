@@ -49,10 +49,6 @@ void liberar_lista(lista* l){
     }    
 }
 
-
-
-
-
 int main() {
 
     lista minha_lista; 
