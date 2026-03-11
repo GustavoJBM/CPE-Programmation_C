@@ -10,3 +10,7 @@ int main(){
 
     return 0;
 }
+
+/*Sobre comportamento indefinido — 
+na prática em GCC vai funcionar, mas tecnicamente modificar uma variável múltiplas vezes entre dois sequence points é comportamento indefinido em C. 
+O professor menciona isso na questão propositalmente — vale citar isso na resposta da prova.*/
