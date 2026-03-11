@@ -56,7 +56,7 @@ int main() {
     init_lista(&minha_lista); 
 
     inserir(&minha_lista,"Lyon");//passa o endereço do primeiro char, ou seja, &char[0]
-    inserir(&minha_lista,"Paris");
+    inserir(&minha_lista,"Porto Alegre");
 
     //Percorrer a lista
     imprimir(&minha_lista);
