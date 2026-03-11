@@ -12,9 +12,9 @@ int main(int argc, char **argv){
     
     switch (op) {
         
-        case '+': printf("parabens vc escolheu +");
+        case '+': printf("parabens vc escolheu +\n");
             break;
-        case '-': printf("parabens vc escolheu -");
+        case '-': printf("parabens vc escolheu -\n");
             break;  
     }
     
